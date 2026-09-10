@@ -1,0 +1,90 @@
+{
+  "id": "wudu",
+  "title": "تعلم الوضوء",
+  "description": "خطوات الوضوء البسيطة للأطفال",
+  "steps": [
+    {
+      "id": "wudu_niyyah",
+      "order": 1,
+      "title": "النية",
+      "shortExplanation": "أنوي بقلبي أنني سأتوضأ لأصلي لله.",
+      "spokenText": null,
+      "imageAsset": "wudu/step1_niyyah.png",
+      "audioAsset": "wudu/step1_niyyah.mp3"
+    },
+    {
+      "id": "wudu_bismillah",
+      "order": 2,
+      "title": "بسم الله",
+      "shortExplanation": "أقول: بسم الله، قبل أن أبدأ الوضوء.",
+      "spokenText": "بِسْمِ اللَّهِ",
+      "imageAsset": "wudu/step2_bismillah.png",
+      "audioAsset": "wudu/step2_bismillah.mp3"
+    },
+    {
+      "id": "wudu_hands",
+      "order": 3,
+      "title": "غسل اليدين",
+      "shortExplanation": "أغسل يديّ ثلاث مرات حتى الرسغين.",
+      "imageAsset": "wudu/step3_hands.png",
+      "audioAsset": "wudu/step3_hands.mp3"
+    },
+    {
+      "id": "wudu_mouth_nose",
+      "order": 4,
+      "title": "المضمضة والاستنشاق",
+      "shortExplanation": "أدخل الماء في فمي ثم أنظف أنفي برفق، ثلاث مرات.",
+      "imageAsset": "wudu/step4_mouth.png",
+      "audioAsset": "wudu/step4_mouth.mp3"
+    },
+    {
+      "id": "wudu_face",
+      "order": 5,
+      "title": "غسل الوجه",
+      "shortExplanation": "أغسل وجهي كاملًا ثلاث مرات.",
+      "imageAsset": "wudu/step5_face.png",
+      "audioAsset": "wudu/step5_face.mp3"
+    },
+    {
+      "id": "wudu_arms",
+      "order": 6,
+      "title": "غسل اليدين إلى المرفقين",
+      "shortExplanation": "أغسل ذراعي اليمنى ثم اليسرى إلى المرفقين، ثلاث مرات.",
+      "imageAsset": "wudu/step6_arms.png",
+      "audioAsset": "wudu/step6_arms.mp3"
+    },
+    {
+      "id": "wudu_head",
+      "order": 7,
+      "title": "مسح الرأس",
+      "shortExplanation": "أمسح رأسي بيدي المبللتين مرة واحدة.",
+      "imageAsset": "wudu/step7_head.png",
+      "audioAsset": "wudu/step7_head.mp3"
+    },
+    {
+      "id": "wudu_ears",
+      "order": 8,
+      "title": "مسح الأذنين",
+      "shortExplanation": "أمسح أذنيّ من الداخل والخارج برفق.",
+      "imageAsset": "wudu/step8_ears.png",
+      "audioAsset": "wudu/step8_ears.mp3"
+    },
+    {
+      "id": "wudu_feet",
+      "order": 9,
+      "title": "غسل القدمين",
+      "shortExplanation": "أغسل قدمي اليمنى ثم اليسرى إلى الكعبين، ثلاث مرات.",
+      "imageAsset": "wudu/step9_feet.png",
+      "audioAsset": "wudu/step9_feet.mp3"
+    },
+    {
+      "id": "wudu_shahada",
+      "order": 10,
+      "title": "الشهادة بعد الوضوء",
+      "shortExplanation": "بعد انتهاء الوضوء أقول الشهادة.",
+      "spokenText": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+      "imageAsset": "wudu/step10_shahada.png",
+      "audioAsset": "wudu/step10_shahada.mp3"
+    }
+  ]
+}

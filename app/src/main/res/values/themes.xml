@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme used only for the Activity window before Compose takes over.
+         No AppCompat/Material library dependency needed since all UI is Compose. -->
+    <style name="Theme.SalatiAlSaghira" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#2E7D32</item>
+        <item name="android:windowBackground">#FFF8E7</item>
+    </style>
+</resources>

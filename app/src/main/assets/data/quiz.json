@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "type": "MULTIPLE_CHOICE",
+    "question": "ماذا نفعل بعد الركوع؟",
+    "options": ["السجود", "الوضوء", "التسليم"],
+    "correctAnswerIndex": 0,
+    "explanation": "بعد الركوع نقوم ثم نسجد."
+  },
+  {
+    "id": "q2",
+    "type": "MULTIPLE_CHOICE",
+    "question": "بماذا نبدأ الوضوء؟",
+    "options": ["بغسل القدمين", "بالنية وبسم الله", "بالسجود"],
+    "correctAnswerIndex": 1,
+    "explanation": "نبدأ الوضوء بالنية وقول بسم الله."
+  },
+  {
+    "id": "q3",
+    "type": "TRUE_FALSE",
+    "question": "السجود يكون قبل الركوع.",
+    "options": ["صح", "خطأ"],
+    "correctAnswerIndex": 1,
+    "explanation": "الركوع يكون قبل السجود، وليس العكس."
+  },
+  {
+    "id": "q4",
+    "type": "TRUE_FALSE",
+    "question": "نقول بسم الله قبل البدء بالوضوء.",
+    "options": ["صح", "خطأ"],
+    "correctAnswerIndex": 0,
+    "explanation": "نعم، نقول بسم الله في بداية الوضوء."
+  },
+  {
+    "id": "q5",
+    "type": "ORDER_STEPS",
+    "question": "رتب خطوات الصلاة بالترتيب الصحيح:",
+    "options": ["تكبيرة الإحرام", "قراءة الفاتحة", "الركوع", "السجود"],
+    "correctOrder": [0, 1, 2, 3],
+    "explanation": "نبدأ بتكبيرة الإحرام، ثم الفاتحة، ثم الركوع، ثم السجود."
+  },
+  {
+    "id": "q6",
+    "type": "IMAGE_CHOICE",
+    "question": "أين صورة الركوع؟ (سيتم استبدال هذه الخيارات بصور لاحقًا)",
+    "options": ["صورة أ: الركوع", "صورة ب: السجود", "صورة ج: القيام"],
+    "correctAnswerIndex": 0,
+    "explanation": "الركوع هو الانحناء مع وضع اليدين على الركبتين."
+  }
+]

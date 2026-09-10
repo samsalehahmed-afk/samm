@@ -1,0 +1,124 @@
+{
+  "id": "prayer",
+  "title": "تعلم الصلاة",
+  "description": "خطوات الصلاة الأساسية للأطفال",
+  "steps": [
+    {
+      "id": "prayer_prepare",
+      "order": 1,
+      "title": "الاستعداد للصلاة",
+      "shortExplanation": "أتوضأ وألبس ملابس نظيفة وأتجه إلى مكان هادئ للصلاة.",
+      "imageAsset": "prayer/01_prepare.png",
+      "audioAsset": "prayer/01_prepare.mp3"
+    },
+    {
+      "id": "prayer_qibla",
+      "order": 2,
+      "title": "استقبال القبلة",
+      "shortExplanation": "أقف متجهًا نحو الكعبة المشرفة في مكة.",
+      "imageAsset": "prayer/02_qibla.png",
+      "audioAsset": "prayer/02_qibla.mp3"
+    },
+    {
+      "id": "prayer_takbir",
+      "order": 3,
+      "title": "تكبيرة الإحرام",
+      "shortExplanation": "أرفع يدي وأبدأ الصلاة بقول الله أكبر.",
+      "spokenText": "اللَّهُ أَكْبَرُ",
+      "imageAsset": "prayer/03_takbir.png",
+      "audioAsset": "prayer/03_takbir.mp3"
+    },
+    {
+      "id": "prayer_qiyam",
+      "order": 4,
+      "title": "القيام",
+      "shortExplanation": "أقف بهدوء وأضع يدي على صدري.",
+      "imageAsset": "prayer/04_qiyam.png",
+      "audioAsset": "prayer/04_qiyam.mp3"
+    },
+    {
+      "id": "prayer_fatiha",
+      "order": 5,
+      "title": "قراءة الفاتحة",
+      "shortExplanation": "أقرأ سورة الفاتحة بهدوء وتركيز.",
+      "imageAsset": "prayer/05_fatiha.png",
+      "audioAsset": "prayer/05_fatiha.mp3"
+    },
+    {
+      "id": "prayer_ruku",
+      "order": 6,
+      "title": "الركوع",
+      "shortExplanation": "أنحني وأضع يدي على ركبتيّ.",
+      "spokenText": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+      "imageAsset": "prayer/06_ruku.png",
+      "audioAsset": "prayer/06_ruku.mp3"
+    },
+    {
+      "id": "prayer_after_ruku",
+      "order": 7,
+      "title": "الرفع من الركوع",
+      "shortExplanation": "أقف مستقيمًا بعد الركوع.",
+      "spokenText": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+      "imageAsset": "prayer/07_after_ruku.png",
+      "audioAsset": "prayer/07_after_ruku.mp3"
+    },
+    {
+      "id": "prayer_sujud1",
+      "order": 8,
+      "title": "السجود",
+      "shortExplanation": "أضع جبهتي وأنفي وكفيّ وركبتيّ وأطراف قدميّ على الأرض.",
+      "spokenText": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+      "imageAsset": "prayer/08_sujud1.png",
+      "audioAsset": "prayer/08_sujud1.mp3"
+    },
+    {
+      "id": "prayer_jalsa",
+      "order": 9,
+      "title": "الجلوس بين السجدتين",
+      "shortExplanation": "أجلس بهدوء بين السجدتين.",
+      "imageAsset": "prayer/09_jalsa.png",
+      "audioAsset": "prayer/09_jalsa.mp3"
+    },
+    {
+      "id": "prayer_sujud2",
+      "order": 10,
+      "title": "السجود الثاني",
+      "shortExplanation": "أسجد مرة ثانية مثل السجدة الأولى.",
+      "imageAsset": "prayer/10_sujud2.png",
+      "audioAsset": "prayer/10_sujud2.mp3"
+    },
+    {
+      "id": "prayer_next_rakah",
+      "order": 11,
+      "title": "القيام للركعة التالية",
+      "shortExplanation": "أقف مرة أخرى لأبدأ الركعة التالية إن وجدت.",
+      "imageAsset": "prayer/11_next_rakah.png",
+      "audioAsset": "prayer/11_next_rakah.mp3"
+    },
+    {
+      "id": "prayer_tashahhud",
+      "order": 12,
+      "title": "التشهد",
+      "shortExplanation": "أجلس وأقول التشهد.",
+      "imageAsset": "prayer/12_tashahhud.png",
+      "audioAsset": "prayer/12_tashahhud.mp3"
+    },
+    {
+      "id": "prayer_salawat",
+      "order": 13,
+      "title": "الصلاة على النبي ﷺ",
+      "shortExplanation": "أصلي على النبي محمد ﷺ.",
+      "imageAsset": "prayer/13_salawat.png",
+      "audioAsset": "prayer/13_salawat.mp3"
+    },
+    {
+      "id": "prayer_taslim",
+      "order": 14,
+      "title": "التسليم",
+      "shortExplanation": "ألتفت يمينًا ثم يسارًا وأقول السلام لأنهي صلاتي.",
+      "spokenText": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+      "imageAsset": "prayer/14_taslim.png",
+      "audioAsset": "prayer/14_taslim.mp3"
+    }
+  ]
+}

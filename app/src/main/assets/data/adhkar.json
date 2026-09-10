@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dhikr_takbir",
+    "relatedStage": "prayer_takbir",
+    "arabicText": "اللَّهُ أَكْبَرُ",
+    "meaningForChildren": "يعني: الله أكبر من كل شيء.",
+    "audioAsset": "adhkar/takbir.mp3"
+  },
+  {
+    "id": "dhikr_ruku",
+    "relatedStage": "prayer_ruku",
+    "arabicText": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+    "meaningForChildren": "أقولها في الركوع لتنزيه الله سبحانه.",
+    "audioAsset": "adhkar/ruku.mp3"
+  },
+  {
+    "id": "dhikr_after_ruku",
+    "relatedStage": "prayer_after_ruku",
+    "arabicText": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+    "meaningForChildren": "أقولها عند القيام من الركوع.",
+    "audioAsset": "adhkar/after_ruku.mp3"
+  },
+  {
+    "id": "dhikr_sujud",
+    "relatedStage": "prayer_sujud1",
+    "arabicText": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+    "meaningForChildren": "أقولها في السجود لتنزيه الله سبحانه.",
+    "audioAsset": "adhkar/sujud.mp3"
+  },
+  {
+    "id": "dhikr_taslim",
+    "relatedStage": "prayer_taslim",
+    "arabicText": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+    "meaningForChildren": "أقولها عند إنهاء الصلاة، مرة يمينًا ومرة يسارًا.",
+    "audioAsset": "adhkar/taslim.mp3"
+  }
+]
